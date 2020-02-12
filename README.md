@@ -1,5 +1,7 @@
 # Nurse Assistant for Disease Diagnostic
 
+Project for the course "Big Data" (lecturer: Cécille Bothorel | Master DS, IMT Atlantique)
+
 ## Objective
 
 Our project aims to create a smartphone/tablet application to help reception nurses diagnose quickly the patient's illness.
